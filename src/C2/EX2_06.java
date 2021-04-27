@@ -2,7 +2,7 @@ package C2;
 
 import java.util.Scanner;
 
-public class EX2_6 {
+public class EX2_06 {
 	
 	public static void main(String[] args) {
 		Scanner sc1 = new Scanner(System.in);

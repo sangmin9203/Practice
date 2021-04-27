@@ -1,6 +1,6 @@
 package C2;
 
-public class EX2_9 {
+public class EX2_09 {
 	
 	public static void main(String[] args) {
 		int counter = 0;

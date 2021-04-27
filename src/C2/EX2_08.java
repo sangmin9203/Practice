@@ -2,7 +2,7 @@ package C2;
 
 import java.util.Scanner;
 
-class EX2_8 {
+class EX2_08 {
 
 	static int digits(int x, int r, char[] d) {
 		int digits = 0;

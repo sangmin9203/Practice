@@ -1,6 +1,6 @@
 package C2;
 
-public class EX2_1 {
+public class EX2_01 {
 	
 	public static void main(String[] args) {
 		int [] a = new int[5];
